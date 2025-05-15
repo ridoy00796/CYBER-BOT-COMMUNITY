@@ -44,11 +44,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("SAME TO YOU😊 ", threadID);
    };
 
-   if ((event.body.toLowerCase() == "kankirpola") || (event.body.toLowerCase() == "kankairpola")) {
-     return api.sendMessage("সরি সিয়াম বস আমার ভুল হয়ে গেছে মাপ করেন দেন..!😭", threadID);
+   if ((event.body.toLowerCase() == "pro") || (event.body.toLowerCase() == "lol")) {
+     return api.sendMessage("Khud k0o KYa LeGend SmJhTi Hai 😂", threadID);
    };
 
-   if ((event.body.oLowerCase() == "morning") || (event.body.toLowerCase() == "good morning")) {
+   if ((event.body.toLowerCase() == "morning") || (event.body.toLowerCase() == "good morning")) {
      return api.sendMessage("GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚", threadID);
    };
 
@@ -56,7 +56,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("~ তোমার বাল উঠে নাই নাকি তোমার?? 🤖", threadID);
    };
 
-  if ((event.body.toLowerCase() == "সিয়াম") || (event.body.toLowerCase() == "shiyam") || (event.body.toLowerCase() == "@Ullash ッ") || (event.body.toLowerCase() == "উল্লাস")) {
+  if ((event.body.toLowerCase() == "shiyam") || (event.body.toLowerCase() == "siam") || (event.body.toLowerCase() == "shiyam vahi") || (event.body.toLowerCase() == "সিয়াম")) {
      return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
 
        
@@ -67,11 +67,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "Tor boss ke") || (event.body.toLowerCase() == "admin ke ")) {
-     return api.sendMessage("My Creator:𝐒𝐇𝐈𝐘𝐀𝐌 ❤️ হাই আমি মেছেন্জার ROBOT  আামার বস সিয়াম বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
+     return api.sendMessage("My Creator:𝐒𝐇𝐈𝐘𝐀𝐌 ❤️ হাই আমি মেছেন্জার ROBOT  আামার বস সিয়াম আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
    };
 
   if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "boter admin")) {
-     return api.sendMessage("He is 𝐒𝐇𝐈𝐘𝐀𝐌 ッ❤️ তাকে সবাই সিয়াম নামে  চিনে🤙", threadID);
+     return api.sendMessage("He is 𝐒𝐇𝐈𝐘𝐀𝐌 ッ❤️ তাকে সবাই সিয়াম ভাই নামে  চিনে🤙", threadID);
    };
 
    if ((event.body.toLowerCase() == "ai") || (event.body.toLowerCase() == "Ai")) {
@@ -87,28 +87,28 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️- ওয়ালাইকুমুস-সালাম-!!🖤", threadID);
    };
 
-   if ((event.body.toLowerCase() == "sala ami tor boss") || (event.body.toLowerCase() == "sala ami shiyam") || (event.body.toLowerCase() == "cup sala ami ullash") || (event.body.toLowerCase() == "madari")) {
+   if ((event.body.toLowerCase() == "sala ami tor boss") || (event.body.toLowerCase() == "sala ami shiyam") || (event.body.toLowerCase() == "cup sala ami shiyam") || (event.body.toLowerCase() == "madari")) {
      return api.sendMessage("সরি বস মাফ করে দেন আর এমন ভুল হবে না🥺🙏", threadID);
    };
 
-   if ((event.body.toLowerCase() == "রাসেল") || (event.body.toLowerCase() == "Rasel")) {
-     return api.sendMessage("রসেল এর কথা বলতাছো রাসেল তো একটা হিজরা নুনু ছোট", threadID);
+   if ((event.body.toLowerCase() == "@Farhana Ontora") || (event.body.toLowerCase() == "@so kp ")) {
+     return api.sendMessage("খবরদার কেউ এই আইড়ি মেনশন দিবানা এটা আমার বস সিয়াম এর বউ এর আইড়ি😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "রিসা") || (event.body.toLowerCase() == "risha")) {
-     return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস সিয়াম এর বউ এর নাম..!🥵💋", threadID);
+  if ((event.body.toLowerCase() == "রিসা") || (event.body.toLowerCase() == "Risha")) {
+     return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস সিয়াম এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
   
-  if ((event.body.toLowerCase() == "বৃষ্টি") || (event.body.toLowerCase() == "bristy")) {
-     return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার জনি দাদার বউ এর নাম..!😠🥰⛏️", threadID);
+  if ((event.body.toLowerCase() == "বৃষ্টি") || (event.body.toLowerCase() == "bristry")) {
+     return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস জনি দাদার এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
   if ((event.body.toLowerCase() == "জিসান") || (event.body.toLowerCase() == "jisan")) {
-     return api.sendMessage("Play boy জিসান..!!🥵💋", threadID);
+     return api.sendMessage("হুম জানি জিসান Play boy😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "@MD Shiam Tafeder ") || (event.body.toLowerCase() == "সিয়াম")) {
-     return api.sendMessage("🥰-সিয়াম-🌺 আমার ভাবি রিসার জামাই  লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
+  if ((event.body.toLowerCase() == "@SHIYAM XHOWDHURY") || (event.body.toLowerCase() == "ছিয়াম")) {
+     return api.sendMessage("🥰-সিয়াম-🌺 আমার বস লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
    if ((event.body.toLowerCase() == "KISS ME") || (event.body.toLowerCase() == "kiss me")) {
@@ -139,8 +139,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️এন থেকে সর দুরে গিয়া মর😒", threadID);
    };
 
-   if ((event.body.toLowerCase() == "xaan") || (event.body.toLowerCase() == "ex")) {
-     return api.sendMessage("️এতো অন্য কাউকে না ডেকে সিয়াম ভাইয়াকে ডাকলেই তো পারে..!!🙁🤝", threadID);
+   if ((event.body.toLowerCase() == "moriom") || (event.body.toLowerCase() == "ex")) {
+     return api.sendMessage("️Kiss Randi Ka Name Le Ke Mood Khrab Kr Diya.🙄 Dubara Naam Mat Lena Iska", threadID);
    };
 
    if ((event.body.toLowerCase() == "cudi") || (event.body.toLowerCase() == "tor nanire xudi")) {
@@ -195,7 +195,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("হুম ঝাং আমি তোমাকে রাইতে ভলোপাসি <🥵", threadID);
    };
 
-   if ((event.body.toLowerCase() == "ami ullash") || (event.body.toLowerCase() == "kire")) {
+   if ((event.body.toLowerCase() == "ami shiyam") || (event.body.toLowerCase() == "kire")) {
      return api.sendMessage("হ্যা বস কেমন আছেন..?☺️", threadID);
    };
   mess = "{name}"
